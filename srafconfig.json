@@ -1,0 +1,11 @@
+{
+	"version" : "1.0.0",
+	"project" : "cvte",
+	"libPath":"W:\\cdh_tmp\\android",
+	"proxyIP" : "192.168.59.107",
+	"proxyPort" : "808",
+	"sysLibPath" : "/system/lib",
+	"skywclientIP" : "192.168.38.160",
+	"clientIP" : "192.168.38.238",
+	"port" : "5555"
+}
